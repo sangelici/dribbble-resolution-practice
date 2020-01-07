@@ -37,12 +37,13 @@ container-fluid {
         transform: rotate(-9deg);
 
         &.chunk-one {
-            right: 5%;
+            right: 3%;
             top: 20%;
             width: 100%;
             transform: rotate(-8deg);
         }
         &.chunk-two {
+            left: .5%;
             top: 40%;
             width: 100%;
         }
